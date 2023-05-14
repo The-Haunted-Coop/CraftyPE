@@ -6,8 +6,8 @@ Weight: Regular
 Copyright: Copyright (c) \nDesigned by ParanormalChicken / Erek Butcher in 2022 & 2023.\nLicensed under the SIL Open Font License (https://scripts.sil.org/OFL)\nOriginal Mojangles font made by Mojang Studios.\nInspiration from ArtsyOmni / Omni Jacala of Curiomatic & Curioglyphic (https://curiomatic.com/fonts).\nSpecial thanks to the toki pona community (https://tokipona.org)\nCreated with FontForge (http://fontforge.org)\n\nThis font is currently in beta. Features may change before final release.\n\nI am not affiliated with Mojang Studios, Curiomatic, Curioglyphic, or FontForge. 
 Version: Beta 12
 ItalicAngle: 0
-UnderlinePosition: -1600
-UnderlineWidth: 800
+UnderlinePosition: -32
+UnderlineWidth: 16
 Ascent: 160
 Descent: 32
 InvalidEm: 0
@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1650157296
-ModificationTime: 1684098583
+ModificationTime: 1684100075
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -170,7 +170,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 32 8
+WinInfo: 64 32 8
 BeginPrivate: 6
 BlueValues 19 [0 0 80 80 112 112]
 BlueShift 1 8
@@ -217,7 +217,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 1
-AltUni2: 0000a0.ffffffff.0 00202f.ffffffff.0
+AltUni2: 00202f.ffffffff.0 0000a0.ffffffff.0
 Width: 64
 GlyphClass: 2
 Flags: W
@@ -1070,7 +1070,7 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 34
-AltUni2: 001d2c.ffffffff.0 000391.ffffffff.0 000410.ffffffff.0
+AltUni2: 000410.ffffffff.0 000391.ffffffff.0 001d2c.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1101,7 +1101,7 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 35
-AltUni2: 001d2e.ffffffff.0 000392.ffffffff.0 000412.ffffffff.0
+AltUni2: 000412.ffffffff.0 000392.ffffffff.0 001d2e.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1189,7 +1189,7 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 38
-AltUni2: 001d31.ffffffff.0 000395.ffffffff.0 000415.ffffffff.0
+AltUni2: 000415.ffffffff.0 000395.ffffffff.0 001d31.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1275,7 +1275,7 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 41
-AltUni2: 001d34.ffffffff.0 000397.ffffffff.0 00041d.ffffffff.0
+AltUni2: 00041d.ffffffff.0 000397.ffffffff.0 001d34.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1305,7 +1305,7 @@ EndChar
 
 StartChar: I
 Encoding: 73 73 42
-AltUni2: 000406.ffffffff.0 001d35.ffffffff.0 000399.ffffffff.0
+AltUni2: 000399.ffffffff.0 001d35.ffffffff.0 000406.ffffffff.0
 Width: 64
 GlyphClass: 2
 Flags: W
@@ -1335,7 +1335,7 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 43
-AltUni2: 000408.ffffffff.0 001d36.ffffffff.0
+AltUni2: 001d36.ffffffff.0 000408.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1359,7 +1359,7 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 44
-AltUni2: 001d37.ffffffff.0 00039a.ffffffff.0 00041a.ffffffff.0
+AltUni2: 00041a.ffffffff.0 00039a.ffffffff.0 001d37.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1412,7 +1412,7 @@ EndChar
 
 StartChar: M
 Encoding: 77 77 46
-AltUni2: 001d39.ffffffff.0 00039c.ffffffff.0 00041c.ffffffff.0
+AltUni2: 00041c.ffffffff.0 00039c.ffffffff.0 001d39.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1442,7 +1442,7 @@ EndChar
 
 StartChar: N
 Encoding: 78 78 47
-AltUni2: 001d3a.ffffffff.0 00039d.ffffffff.0
+AltUni2: 00039d.ffffffff.0 001d3a.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1471,7 +1471,7 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 48
-AltUni2: 001d3c.ffffffff.0 00039f.ffffffff.0 00041e.ffffffff.0
+AltUni2: 00041e.ffffffff.0 00039f.ffffffff.0 001d3c.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1498,7 +1498,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 49
-AltUni2: 001d3e.ffffffff.0 0003a1.ffffffff.0 000420.ffffffff.0
+AltUni2: 000420.ffffffff.0 0003a1.ffffffff.0 001d3e.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1617,7 +1617,7 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 53
-AltUni2: 001d40.ffffffff.0 0003a4.ffffffff.0 000422.ffffffff.0
+AltUni2: 000422.ffffffff.0 0003a4.ffffffff.0 001d40.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1739,7 +1739,7 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 57
-AltUni2: 000425.ffffffff.0 0003a7.ffffffff.0
+AltUni2: 0003a7.ffffffff.0 000425.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1945,7 +1945,7 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 66
-AltUni2: 000430.ffffffff.0 001d43.ffffffff.0
+AltUni2: 001d43.ffffffff.0 000430.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2063,7 +2063,7 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 70
-AltUni2: 000435.ffffffff.0 001d49.ffffffff.0
+AltUni2: 001d49.ffffffff.0 000435.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2179,7 +2179,7 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 74
-AltUni2: 000456.ffffffff.0 001d62.ffffffff.0
+AltUni2: 001d62.ffffffff.0 000456.ffffffff.0
 Width: 32
 GlyphClass: 2
 Flags: W
@@ -2206,7 +2206,7 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 75
-AltUni2: 0002b2.ffffffff.0 000458.ffffffff.0
+AltUni2: 000458.ffffffff.0 0002b2.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2341,7 +2341,7 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 80
-AltUni2: 00043e.ffffffff.0 001d52.ffffffff.0
+AltUni2: 001d52.ffffffff.0 00043e.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2368,7 +2368,7 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 81
-AltUni2: 000440.ffffffff.0 001d56.ffffffff.0
+AltUni2: 001d56.ffffffff.0 000440.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2427,7 +2427,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 83
-AltUni2: 0002b3.ffffffff.0 001d63.ffffffff.0
+AltUni2: 001d63.ffffffff.0 0002b3.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2454,7 +2454,7 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 84
-AltUni2: 0002e2.ffffffff.0 000455.ffffffff.0
+AltUni2: 000455.ffffffff.0 0002e2.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2513,7 +2513,7 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 86
-AltUni2: 001d58.ffffffff.0 001d64.ffffffff.0
+AltUni2: 001d64.ffffffff.0 001d58.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2538,7 +2538,7 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 87
-AltUni2: 001d65.ffffffff.0 001d5b.ffffffff.0
+AltUni2: 001d5b.ffffffff.0 001d65.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2593,7 +2593,7 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 89
-AltUni2: 0002e3.ffffffff.0 001d6a.ffffffff.0 001d61.ffffffff.0 000445.ffffffff.0
+AltUni2: 000445.ffffffff.0 001d61.ffffffff.0 001d6a.ffffffff.0 0002e3.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2622,7 +2622,7 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 90
-AltUni2: 0002b8.ffffffff.0 000443.ffffffff.0
+AltUni2: 000443.ffffffff.0 0002b8.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -14814,7 +14814,7 @@ EndChar
 
 StartChar: uni0374
 Encoding: 884 884 632
-AltUni2: 0002b9.ffffffff.0 0002bc.ffffffff.0
+AltUni2: 0002bc.ffffffff.0 0002b9.ffffffff.0
 Width: 48
 GlyphClass: 4
 Flags: W
@@ -17212,7 +17212,7 @@ EndChar
 
 StartChar: Phi
 Encoding: 934 934 728
-AltUni2: 000424.ffffffff.0 000278.ffffffff.0
+AltUni2: 000278.ffffffff.0 000424.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -17596,7 +17596,7 @@ EndChar
 
 StartChar: beta
 Encoding: 946 946 740
-AltUni2: 001d5d.ffffffff.0 001d66.ffffffff.0
+AltUni2: 001d66.ffffffff.0 001d5d.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -17628,7 +17628,7 @@ EndChar
 
 StartChar: gamma
 Encoding: 947 947 741
-AltUni2: 001d5e.ffffffff.0 001d67.ffffffff.0
+AltUni2: 001d67.ffffffff.0 001d5e.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -17823,7 +17823,7 @@ EndChar
 
 StartChar: kappa
 Encoding: 954 954 748
-AltUni2: 00043a.ffffffff.0 0003f0.ffffffff.0
+AltUni2: 0003f0.ffffffff.0 00043a.ffffffff.0
 Width: 80
 GlyphClass: 2
 Flags: W
@@ -17932,7 +17932,7 @@ EndChar
 
 StartChar: uni1D52
 Encoding: 7506 7506 752
-AltUni2: 0003bf.ffffffff.0 00043e.ffffffff.0 000585.ffffffff.0
+AltUni2: 000585.ffffffff.0 00043e.ffffffff.0 0003bf.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -17987,7 +17987,7 @@ EndChar
 
 StartChar: rho
 Encoding: 961 961 754
-AltUni2: 001d68.ffffffff.0 0003f1.ffffffff.0
+AltUni2: 0003f1.ffffffff.0 001d68.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -18117,7 +18117,7 @@ EndChar
 
 StartChar: phi
 Encoding: 966 966 759
-AltUni2: 001d60.ffffffff.0 001d69.ffffffff.0
+AltUni2: 001d69.ffffffff.0 001d60.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -18148,7 +18148,7 @@ EndChar
 
 StartChar: chi
 Encoding: 967 967 760
-AltUni2: 001d61.ffffffff.0 001d6a.ffffffff.0
+AltUni2: 001d6a.ffffffff.0 001d61.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -19512,7 +19512,7 @@ EndChar
 
 StartChar: uni1D3C
 Encoding: 7484 7484 811
-AltUni2: 00041e.ffffffff.0 000555.ffffffff.0
+AltUni2: 000555.ffffffff.0 00041e.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W

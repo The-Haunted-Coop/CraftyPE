@@ -14,7 +14,7 @@ It also kerns for better flow.
 
 ---
 
-**You will not be able to use this in vanilla minecraft. You will have to use a mod like [Caxton](https://modrinth.com/mod/caxton)**
+**You will not be able to use this in vanilla minecraft. You will have to use a mod like [Caxton](https://modrinth.com/mod/caxton).**
 
 ---
 

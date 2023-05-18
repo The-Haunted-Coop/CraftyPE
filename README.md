@@ -35,3 +35,8 @@ Created with [FontForge](http://fontforge.org)
 This font is currently in beta. Features may change before final release.
 
 I am not affiliated with Mojang Studios, Curiomatic, Curioglyphic, Caxton, or FontForge.
+
+---
+
+Samples:
+![ASCII](https://github.com/ParanormalChicken/CraftyPE/blob/main/docs/ASCII.png?raw=true)

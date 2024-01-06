@@ -14,7 +14,7 @@ It also kerns for better flow.
 
 ---
 
-**You will not be able to use this in vanilla minecraft. You will have to use a mod like [Caxton](https://modrinth.com/mod/caxton).**
+**You will not be able to use this in vanilla Minecraft. You will have to use a mod like [Caxton](https://modrinth.com/mod/caxton).**
 
 ---
 
@@ -35,3 +35,8 @@ Created with [FontForge](http://fontforge.org)
 This font is currently in beta. Features may change before final release.
 
 I am not affiliated with Mojang Studios, Curiomatic, Curioglyphic, Caxton, or FontForge.
+
+---
+
+Samples:
+![ASCII](https://github.com/ParanormalChicken/CraftyPE/blob/main/docs/ASCII.png?raw=true)

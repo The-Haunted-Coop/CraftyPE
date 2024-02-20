@@ -18,23 +18,28 @@ It also kerns for better flow.
 
 ---
 
-Designed by [ParanormalChicken / Erek Butcher](https://paranormalchicken.github.io/) in 2022 & 2023.
+Designed by [Erek Butcher (ParanormalChicken)](https://paranormalchicken.github.io/) in 2022 & 2023.
 
 Licensed under the [SIL Open Font License](https://scripts.sil.org/OFL)
 
-Original Mojangles font made by [Mojang Studios](https://www.minecraft.net/).
-
-Inspiration from [ArtsyOmni / Omni Jacala of Curiomatic & Curioglyphic](https://curiomatic.com/fonts).
+Original Mojangles font made by [Mojang Studios](https://www.minecraft.net/)
 
 Special thanks to the [toki pona community](https://tokipona.org)
 
 Created with [FontForge](http://fontforge.org)
 
+Inspiration from
+
+[Omni Jacala (ArtsyOmni) of Curiomatic & Curioglyphic](https://curiomatic.com/fonts),
+
+[Rebecca Bettencourt of KreativeKorp](kreativekorp.com)
+
+
 ---
 
 This font is currently in beta. Features may change before final release.
 
-I am not affiliated with Mojang Studios, Curiomatic, Curioglyphic, Caxton, or FontForge.
+I am not affiliated with Mojang Studios, Curiomatic, Curioglyphic, Caxton, KreativeKorp, or FontForge.
 
 ---
 

@@ -4,7 +4,7 @@ FullName: Crafty PE
 FamilyName: CraftyPE
 Weight: Regular
 Copyright: Copyright (c) \nDesigned by Erek Butcher (ParanormalChicken) in 2022 - 2024.\nLicensed under the SIL Open Font License (scripts.sil.org/OFL)\nOriginal Mojangles font made by Mojang Studios. (minecraft.net)\nSpecial thanks to the toki pona community (tokipona.org)\nCreated with FontForge (fontforge.org)\nInspiration from\nOmni Jacala (ArtsyOmni) of Curiomatic & Curioglyphic (curiomatic.com/fonts),\nRebecca Bettencourt of KreativeKorp (kreativekorp.com)\n\nThis font is currently in beta. Features may change before final release.\n\nI am not affiliated with Mojang Studios, Curiomatic, Curioglyphic, KreativeKorp, or FontForge. 
-Version: Beta 17
+Version: Beta 17.1
 ItalicAngle: 0
 UnderlinePosition: -32
 UnderlineWidth: 16
@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1650157296
-ModificationTime: 1708390306
+ModificationTime: 1708391682
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -159,14 +159,14 @@ ChainSub2: class "'calt' Contextual Alternates lookup 1 subtable" 2 2 2 1
   BClassNames: "0" "1"
   FClassNames: "0" "1"
 EndFPST
-LangName: 1033 "" "" "" "FontForge : Crafty PE : 3-08-2022" "" "Version Beta 17" "" "" "" "Erek Butcher" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "FontForge : Crafty PE : 3-08-2022" "" "Version Beta 17.1" "" "" "" "Erek Butcher" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1114080 32 8
+WinInfo: 989440 32 8
 BeginPrivate: 6
 BlueValues 19 [0 0 80 80 112 112]
 BlueShift 1 8
@@ -187,7 +187,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 349525 174762 116508 436907 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-2" "'mkmk' Mark to Mark lookup 1-1" "Anchor-1" "'mark' Mark Positioning lookup 0-1" "Anchor-0" "'mark' Mark Positioning lookup 0-1"
-BeginChars: 1114423 3288
+BeginChars: 1114423 3290
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -215,7 +215,7 @@ EndChar
 
 StartChar: space
 Encoding: 32 32 1
-AltUni2: 00202f.ffffffff.0 0000a0.ffffffff.0
+AltUni2: 0000a0.ffffffff.0 00202f.ffffffff.0
 Width: 64
 GlyphClass: 2
 Flags: W
@@ -1066,7 +1066,7 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 34
-AltUni2: 000410.ffffffff.0 000391.ffffffff.0 001d2c.ffffffff.0
+AltUni2: 001d2c.ffffffff.0 000391.ffffffff.0 000410.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1097,7 +1097,7 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 35
-AltUni2: 000412.ffffffff.0 000392.ffffffff.0 001d2e.ffffffff.0
+AltUni2: 001d2e.ffffffff.0 000392.ffffffff.0 000412.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1185,7 +1185,7 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 38
-AltUni2: 000415.ffffffff.0 000395.ffffffff.0 001d31.ffffffff.0
+AltUni2: 001d31.ffffffff.0 000395.ffffffff.0 000415.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1271,7 +1271,7 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 41
-AltUni2: 00041d.ffffffff.0 000397.ffffffff.0 001d34.ffffffff.0
+AltUni2: 001d34.ffffffff.0 000397.ffffffff.0 00041d.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1301,7 +1301,7 @@ EndChar
 
 StartChar: I
 Encoding: 73 73 42
-AltUni2: 000399.ffffffff.0 001d35.ffffffff.0 000406.ffffffff.0
+AltUni2: 000406.ffffffff.0 001d35.ffffffff.0 000399.ffffffff.0
 Width: 64
 GlyphClass: 2
 Flags: W
@@ -1331,7 +1331,7 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 43
-AltUni2: 001d36.ffffffff.0 000408.ffffffff.0
+AltUni2: 000408.ffffffff.0 001d36.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1355,7 +1355,7 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 44
-AltUni2: 00041a.ffffffff.0 00039a.ffffffff.0 001d37.ffffffff.0
+AltUni2: 001d37.ffffffff.0 00039a.ffffffff.0 00041a.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1408,7 +1408,7 @@ EndChar
 
 StartChar: M
 Encoding: 77 77 46
-AltUni2: 00041c.ffffffff.0 00039c.ffffffff.0 001d39.ffffffff.0
+AltUni2: 001d39.ffffffff.0 00039c.ffffffff.0 00041c.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1438,7 +1438,7 @@ EndChar
 
 StartChar: N
 Encoding: 78 78 47
-AltUni2: 00039d.ffffffff.0 001d3a.ffffffff.0
+AltUni2: 001d3a.ffffffff.0 00039d.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1467,7 +1467,7 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 48
-AltUni2: 00041e.ffffffff.0 00039f.ffffffff.0 001d3c.ffffffff.0
+AltUni2: 001d3c.ffffffff.0 00039f.ffffffff.0 00041e.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1494,7 +1494,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 49
-AltUni2: 000420.ffffffff.0 0003a1.ffffffff.0 001d3e.ffffffff.0
+AltUni2: 001d3e.ffffffff.0 0003a1.ffffffff.0 000420.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1613,7 +1613,7 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 53
-AltUni2: 000422.ffffffff.0 0003a4.ffffffff.0 001d40.ffffffff.0
+AltUni2: 001d40.ffffffff.0 0003a4.ffffffff.0 000422.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1735,7 +1735,7 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 57
-AltUni2: 0003a7.ffffffff.0 000425.ffffffff.0
+AltUni2: 000425.ffffffff.0 0003a7.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -1941,7 +1941,7 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 66
-AltUni2: 001d43.ffffffff.0 000430.ffffffff.0
+AltUni2: 000430.ffffffff.0 001d43.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2059,7 +2059,7 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 70
-AltUni2: 001d49.ffffffff.0 000435.ffffffff.0
+AltUni2: 000435.ffffffff.0 001d49.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2175,7 +2175,7 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 74
-AltUni2: 001d62.ffffffff.0 000456.ffffffff.0
+AltUni2: 000456.ffffffff.0 001d62.ffffffff.0
 Width: 32
 GlyphClass: 2
 Flags: W
@@ -2202,7 +2202,7 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 75
-AltUni2: 000458.ffffffff.0 0002b2.ffffffff.0
+AltUni2: 0002b2.ffffffff.0 000458.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2337,7 +2337,7 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 80
-AltUni2: 001d52.ffffffff.0 00043e.ffffffff.0
+AltUni2: 00043e.ffffffff.0 001d52.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2364,7 +2364,7 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 81
-AltUni2: 001d56.ffffffff.0 000440.ffffffff.0
+AltUni2: 000440.ffffffff.0 001d56.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2423,7 +2423,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 83
-AltUni2: 001d63.ffffffff.0 0002b3.ffffffff.0
+AltUni2: 0002b3.ffffffff.0 001d63.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2450,7 +2450,7 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 84
-AltUni2: 000455.ffffffff.0 0002e2.ffffffff.0
+AltUni2: 0002e2.ffffffff.0 000455.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2509,7 +2509,7 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 86
-AltUni2: 001d64.ffffffff.0 001d58.ffffffff.0
+AltUni2: 001d58.ffffffff.0 001d64.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2534,7 +2534,7 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 87
-AltUni2: 001d5b.ffffffff.0 001d65.ffffffff.0
+AltUni2: 001d65.ffffffff.0 001d5b.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2589,7 +2589,7 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 89
-AltUni2: 000445.ffffffff.0 001d61.ffffffff.0 001d6a.ffffffff.0 0002e3.ffffffff.0
+AltUni2: 0002e3.ffffffff.0 001d6a.ffffffff.0 001d61.ffffffff.0 000445.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -2618,7 +2618,7 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 90
-AltUni2: 000443.ffffffff.0 0002b8.ffffffff.0
+AltUni2: 0002b8.ffffffff.0 000443.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -14832,7 +14832,7 @@ EndChar
 
 StartChar: uni0374
 Encoding: 884 884 632
-AltUni2: 0002bc.ffffffff.0 0002b9.ffffffff.0
+AltUni2: 0002b9.ffffffff.0 0002bc.ffffffff.0
 Width: 32
 GlyphClass: 4
 Flags: W
@@ -17230,7 +17230,7 @@ EndChar
 
 StartChar: Phi
 Encoding: 934 934 728
-AltUni2: 000278.ffffffff.0 000424.ffffffff.0
+AltUni2: 000424.ffffffff.0 000278.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -17614,7 +17614,7 @@ EndChar
 
 StartChar: beta
 Encoding: 946 946 740
-AltUni2: 001d66.ffffffff.0 001d5d.ffffffff.0
+AltUni2: 001d5d.ffffffff.0 001d66.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -17646,7 +17646,7 @@ EndChar
 
 StartChar: gamma
 Encoding: 947 947 741
-AltUni2: 001d67.ffffffff.0 001d5e.ffffffff.0
+AltUni2: 001d5e.ffffffff.0 001d67.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -17841,7 +17841,7 @@ EndChar
 
 StartChar: kappa
 Encoding: 954 954 748
-AltUni2: 0003f0.ffffffff.0 00043a.ffffffff.0
+AltUni2: 00043a.ffffffff.0 0003f0.ffffffff.0
 Width: 80
 GlyphClass: 2
 Flags: W
@@ -17948,7 +17948,7 @@ EndChar
 
 StartChar: uni1D52
 Encoding: 7506 7506 752
-AltUni2: 000585.ffffffff.0 00043e.ffffffff.0 0003bf.ffffffff.0
+AltUni2: 0003bf.ffffffff.0 00043e.ffffffff.0 000585.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -18003,7 +18003,7 @@ EndChar
 
 StartChar: rho
 Encoding: 961 961 754
-AltUni2: 0003f1.ffffffff.0 001d68.ffffffff.0
+AltUni2: 001d68.ffffffff.0 0003f1.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -18133,7 +18133,7 @@ EndChar
 
 StartChar: phi
 Encoding: 966 966 759
-AltUni2: 001d69.ffffffff.0 001d60.ffffffff.0
+AltUni2: 001d60.ffffffff.0 001d69.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -18164,7 +18164,7 @@ EndChar
 
 StartChar: chi
 Encoding: 967 967 760
-AltUni2: 001d6a.ffffffff.0 001d61.ffffffff.0
+AltUni2: 001d61.ffffffff.0 001d6a.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -19529,7 +19529,7 @@ EndChar
 
 StartChar: uni1D3C
 Encoding: 7484 7484 811
-AltUni2: 000555.ffffffff.0 00041e.ffffffff.0
+AltUni2: 00041e.ffffffff.0 000555.ffffffff.0
 Width: 96
 GlyphClass: 2
 Flags: W
@@ -82025,6 +82025,44 @@ SplineSet
  96 48 l 2
  96 64 80 80 56 80 c 0
  32 80 16 64 16 48 c 1
+EndSplineSet
+EndChar
+
+StartChar: uF199E
+Encoding: 989598 989598 3288
+Width: 128
+Flags: W
+HStem: 0 21G<48 64> 96 16<64 112>
+VStem: 48 16<0 96>
+LayerCount: 2
+Fore
+SplineSet
+48 112 m 1
+ 112 112 l 1
+ 112 96 l 1
+ 64 96 l 1
+ 64 0 l 5
+ 48 0 l 5
+ 48 112 l 1
+EndSplineSet
+EndChar
+
+StartChar: uF199F
+Encoding: 989599 989599 3289
+Width: 128
+Flags: W
+HStem: 0 16<0 48> 92 20G<48 64>
+VStem: 48 16<16 112>
+LayerCount: 2
+Fore
+SplineSet
+64 0 m 1
+ 0 0 l 1
+ 0 16 l 1
+ 48 16 l 1
+ 48 112 l 5
+ 64 112 l 5
+ 64 0 l 1
 EndSplineSet
 EndChar
 EndChars
